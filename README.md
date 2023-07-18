@@ -2,9 +2,9 @@
 
 ### About me
 
-- 👨‍💻 Currently taking a Master's degree in Science and GIS
-- 🌱 Working on a website using the MERN Stack for my thesis
-- 💙 Flutter, Dart, React.JS
+- 👨‍💻 Currently working at CriticalTechworks
+- 🌱 MyBMW app and multiple personal projects
+- 💙 Flutter, Dart, TypeScript
 - 📖 Love to do things that I couldn't do yesterday!
 
 
